@@ -1009,25 +1009,25 @@ $config->cookieOptions = array(
  * Database name
  *
  */
-$config->dbName = '';
+$config->dbName = 'DB4320402';
 
 /**
  * Database username
  *
  */
-$config->dbUser = '';
+$config->dbUser = 'U4320402';
 
 /**
  * Database password
  *
  */
-$config->dbPass = '';
+$config->dbPass = 'musJz1TEA7WDF6zkC7x';
 
 /**
  * Database host
  *
  */
-$config->dbHost = '';
+$config->dbHost = 'localhost';
 
 /**
  * Database port
