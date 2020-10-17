@@ -1,0 +1,7 @@
+2020-10-17 20:36:53	guest	http://192.168.33.10/	Added 'filesize' to DB schema for 'images' (FieldtypeImage)
+2020-10-17 20:36:53	guest	http://192.168.33.10/	Added 'created_users_id' to DB schema for 'images' (FieldtypeImage)
+2020-10-17 20:36:53	guest	http://192.168.33.10/	Added 'modified_users_id' to DB schema for 'images' (FieldtypeImage)
+2020-10-17 20:36:53	guest	http://192.168.33.10/	Added 'filedata' to DB schema for 'images' (FieldtypeImage)
+2020-10-17 20:36:53	guest	http://192.168.33.10/	Added 'width' to DB schema for 'images' (FieldtypeImage)
+2020-10-17 20:36:53	guest	http://192.168.33.10/	Added 'height' to DB schema for 'images' (FieldtypeImage)
+2020-10-17 20:36:53	guest	http://192.168.33.10/	Added 'ratio' to DB schema for 'images' (FieldtypeImage)
