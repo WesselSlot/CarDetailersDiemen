@@ -1027,7 +1027,7 @@ $config->dbPass = 'musJz1TEA7WDF6zkC7x';
  * Database host
  *
  */
-$config->dbHost = 'localhost';
+$config->dbHost = 'rdbms.strato.de';
 
 /**
  * Database port

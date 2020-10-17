@@ -35,17 +35,16 @@
 
 <script src="//maps.googleapis.com/maps/api/js" type="text/javascript"></script>
 
-<script type="text/javascript" src="assets/js/jquery.js"></script>
-<script type="text/javascript" src="assets/js/jquery.ezmark.min.js"></script>
-<script type="text/javascript" src="assets/js/tether.min.js"></script>
-<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="assets/js/gmap3.min.js"></script>
-<script type="text/javascript" src="assets/js/leaflet.js"></script>
-<script type="text/javascript" src="assets/js/leaflet.markercluster.js"></script>
-<script type="text/javascript" src="assets/libraries/owl-carousel/owl.carousel.min.js"></script>
-<script type="text/javascript" src="assets/libraries/chartist/chartist.min.js"></script>
-<script type="text/javascript" src="assets/js/scrollPosStyler.js"></script>
-<script type="text/javascript" src="assets/js/villareal.js"></script>
+<script type="text/javascript" src="<?php echo $config->urls->templates?>scripts/jquery.js"></script>
+<script type="text/javascript" src="<?php echo $config->urls->templates?>scripts/jquery.ezmark.min.js"></script>
+<script type="text/javascript" src="<?php echo $config->urls->templates?>scripts/tether.min.js"></script>
+<script type="text/javascript" src="<?php echo $config->urls->templates?>scripts/bootstrap.min.js"></script>
+<script type="text/javascript" src="<?php echo $config->urls->templates?>scripts/gmap3.min.js"></script>
+<script type="text/javascript" src="<?php echo $config->urls->templates?>scripts/leaflet.js"></script>
+<script type="text/javascript" src="<?php echo $config->urls->templates?>scripts/leaflet.markercluster.js"></script>
+<script type="text/javascript" src="<?php echo $config->urls->templates?>libraries/owl-carousel/owl.carousel.min.js"></script>
+<script type="text/javascript" src="<?php echo $config->urls->templates?>libraries/chartist/chartist.min.js"></script>
+<script type="text/javascript" src="<?php echo $config->urls->templates?>scripts/villareal.js"></script>
 
 </body>
 </html>

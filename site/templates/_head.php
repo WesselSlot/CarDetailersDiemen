@@ -56,12 +56,14 @@
 									</div>
 								</div>
 
-								<div class="header-information">
-									<i class="fa fa-phone"></i>
+								<div class="header-information mobileShow">
+									<div class="mobilecontainer">
+										<i class="fa fa-phone"></i>
 
-									<div class="header-information-block">
-										<strong>06-45210504 of 06-52460933</strong>
-										<span>Maak een afspraak</span>
+										<div class="header-information-block">
+											<strong>06-45210504 of 06-52460933</strong>
+											<span>Maak een afspraak</span>
+										</div>
 									</div>
 								</div>
 

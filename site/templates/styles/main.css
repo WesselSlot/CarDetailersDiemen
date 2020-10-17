@@ -6,3 +6,17 @@ iframe {
 .main {
 	padding-bottom: 0px!important;
 }
+
+.mobileShow {
+	display: block!important;
+}
+
+@media (max-width: 767px) {
+	.mobileShow {
+		width: 100%;
+	}
+	.mobilecontainer {
+		width: 300px;
+		margin-top: 20px;
+	}
+}
